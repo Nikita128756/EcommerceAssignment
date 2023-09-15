@@ -1,0 +1,12 @@
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EcommerceDataAccess.dll.config
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EcommerceDataAccess.dll
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EcommerceDataAccess.pdb
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EntityFramework.dll
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EntityFramework.xml
+C:\EcommerceWebsite\EcommerceDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\EcommerceWebsite\EcommerceDataAccess\obj\Debug\EcommerceDataAccess.csproj.CoreCompileInputs.cache
+C:\EcommerceWebsite\EcommerceDataAccess\obj\Debug\EcommerceDataAccess.csproj.CopyComplete
+C:\EcommerceWebsite\EcommerceDataAccess\obj\Debug\EcommerceDataAccess.dll
+C:\EcommerceWebsite\EcommerceDataAccess\obj\Debug\EcommerceDataAccess.pdb
+C:\EcommerceWebsite\EcommerceDataAccess\obj\Debug\EcommerceDataAccess.csprojAssemblyReference.cache
